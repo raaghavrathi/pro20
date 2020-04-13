@@ -1,2 +1,2 @@
-# pro20
-changes coloūr of background while moving mouse
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
